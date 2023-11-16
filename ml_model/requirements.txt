@@ -1,0 +1,5 @@
+face-recognition
+face-recognition-models
+pillow
+termcolor
+numpy
