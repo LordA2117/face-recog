@@ -320,7 +320,7 @@ pylnk3==0.4.2
 pylsqpack==0.3.17
 pyminifier==2.1
 pymssql==2.2.2
-PyMySQL==1.0.2
+PyMySQL==1.1.1
 PyNaCl==1.5.0
 pynvim==0.4.2
 PyOpenGL==3.1.6
